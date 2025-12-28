@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**vedant21-ctr/vedant21-ctr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
+# 💫 About Me:
 🔭 Currently working on: full-stack web apps & improving my UI/UX<br>👯 Open to collaborate on: frontend or full-stack projects<br>🤝 Need help with: DSA & backend best practices<br>🌱 Learning: DSA, Node.js, databases, and better JavaScript<br>⚡ Fun fact: I love teaching and I’ve played baseball at the national level ⚾
 
 
@@ -28,6 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=vedant21-ctr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
