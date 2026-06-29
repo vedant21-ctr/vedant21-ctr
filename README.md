@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vedant Satbhai  
-### A passionate Data Analyst || UI/UX Designer || Frontend Developer from India  
+### A passionate Data Analyst || Backend developer || Full Stack Developer from India  
 
 📧 Email Me 👉 **vedant.satbhai@gmail.com**  
 _For Collaboration / Projects / Opportunities_ 😊  
@@ -10,7 +10,7 @@ _For Collaboration / Projects / Opportunities_ 😊
 - 🌱 **I’m currently learning:**  Advanced Data Analytics, Full Stack Development, and DSA  
 - 👯 **I’m looking to collaborate on:**  Data Analytics projects, UI/UX designs, and Full Stack applications  
 - 🤔 **I’m looking for help with:**  Gaining clients and securing internships  
-- 💬 **Ask me about:**  Data Analysis, Frontend Development, UI/UX Design, and Tech Support  
+- 💬 **Ask me about:**  Data Analysis, Full Stack Development, UI/UX Design, and Tech Support  
 - 📫 **How to reach me:**  vedant.satbhai@gmail.com  
 - 😄 **Pronouns:**  Mr. Vedant  
 - ⚡ **Fun fact:**  I love turning data into insights and ideas into powerful digital experiences 🚀  
