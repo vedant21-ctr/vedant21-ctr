@@ -1,47 +1,167 @@
-# 💫 Hi 👋, I'm Vedant Satbhai  
-### A passionate Data Analyst || Backend developer || Full Stack Developer from India  
 
-📧 Email Me 👉 **vedant.satbhai@gmail.com**  
-_For Collaboration / Projects / Opportunities_ 😊  
+# 👋 Hi, I'm Vedant Satbhai
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=Vedant%20Satbhai&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;Open+Source+Contributor;React+%7C+Node.js+%7C+Go;Building+Scalable+Applications" />
+<br>
+
+</div>
 
 ---
 
-- 🔭 **I’m currently working on:**  EDA (Exploratory Data Analysis), Data Analytics projects, and Full Stack development projects  
-- 🌱 **I’m currently learning:**  Advanced Data Analytics, Full Stack Development, and DSA  
-- 👯 **I’m looking to collaborate on:**  Data Analytics projects, UI/UX designs, and Full Stack applications  
-- 🤔 **I’m looking for help with:**  Gaining clients and securing internships  
-- 💬 **Ask me about:**  Data Analysis, Full Stack Development, UI/UX Design, and Tech Support  
-- 📫 **How to reach me:**  vedant.satbhai@gmail.com  
-- 😄 **Pronouns:**  Mr. Vedant  
-- ⚡ **Fun fact:**  I love turning data into insights and ideas into powerful digital experiences 🚀  
+# 👨‍💻 About Me
 
+- 💻 Full Stack & Backend Developer
+- 📍 Nashik, Maharashtra, India 🇮🇳
+- ❤️ Open Source Contributor at **Layer5** & **Meshery**
+- 🚀 Interested in Backend Engineering, Cloud Native & Developer Tools
+- 🌱 Currently learning **Go, Kubernetes, Docker, AWS & System Design**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-satbhai-474190324/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedant.satbhai@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 🛠️ Tech Stack
 
-# 🏆 Achievements
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,go,mysql,mongodb,docker,git,github,linux,vscode,postman&theme=dark"/>
+</p>
+
+---
+
+# ❤️ Open Source
+
+- 🚀 Active Open Source Contributor
+- 💙 Contributor to **Layer5** & **Meshery**
+- 🔧 Worked on React, Go and Backend APIs
+- 🤝 Passionate about building developer tools
+
+---
+
+# 🏆 Achievement
 
 <div align="center">
 
 <a href="https://cloud.layer5.io/user/0ea33ab9-2d96-43cc-87fc-5578a9778e69?tab=badges&badge=certified-meshery-contributor">
-  <img width="180" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor"/>
+<img width="170" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png"/>
 </a>
 
 ### 🎖️ Certified Meshery Contributor
 
-Recognized for contributions to the Meshery cloud-native ecosystem through open-source development, community engagement, and project contributions.
+Awarded by **Layer5** for meaningful contributions to the Meshery ecosystem.
+
+</div>
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vedant21-ctr&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vedant21-ctr&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vedant21-ctr&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedant21-ctr&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedant21-ctr&theme=github-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=2EA043&point=FFFFFF"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vedant21-ctr&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📌 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="33%">
+
+### 🌐 ReadStream
+
+A modern reading platform focused on a smooth and responsive user experience.
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express
+- MongoDB
+
+🔗 https://github.com/vedant21-ctr/ReadStream
+
+</td>
+
+<td width="33%">
+
+### ☁️ Meshery1
+
+Open source contributions and development around the Meshery ecosystem.
+
+**Tech Stack**
+
+- React
+- Go
+- Docker
+
+🔗 https://github.com/vedant21-ctr/meshery1
+
+</td>
+
+<td width="33%">
+
+### 🌾 HelCrops
+
+Agriculture platform built to simplify crop management and analytics.
+
+**Tech Stack**
+
+- React
+- Node.js
+- MongoDB
+
+🔗 https://github.com/vedant21-ctr/helcrops
+
+</td>
+</tr>
+</table>
+---
+
+# 🌱 Currently Learning
+
+- Go
+- Kubernetes
+- Docker
+- AWS
+- System Design
+- Microservices
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/vedant21-ctr">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vedant-satbhai-474190324/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:vedant.satbhai@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:2563EB,100:0F172A"/>
+
+</div>
